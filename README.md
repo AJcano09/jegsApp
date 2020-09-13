@@ -1,0 +1,2 @@
+# jegsApp
+React-native app 
