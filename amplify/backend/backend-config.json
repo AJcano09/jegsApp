@@ -1,1 +1,10 @@
-{}
+{
+  "auth": {
+    "jegsbf8168b8": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}

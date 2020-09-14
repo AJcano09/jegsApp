@@ -10,6 +10,11 @@
       "StackName": "amplify-jegs-develop-163358",
       "StackId": "arn:aws:cloudformation:us-east-2:220453525937:stack/amplify-jegs-develop-163358/389b7310-f611-11ea-a1ba-0a96521365a0",
       "AmplifyAppId": "d1gcbwycfw8oz8"
+    },
+    "categories": {
+      "auth": {
+        "jegsbf8168b8": {}
+      }
     }
   }
 }
